@@ -1,2 +1,3 @@
-# Kaggle-Lyft-Data-Set
-A data set taken from kaggle to practice purposes
+# Jupyter notebook dump
+Bunch of non important jupyter notebooks for my ai skills developmnet
+
